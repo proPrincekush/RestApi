@@ -1,1 +1,1 @@
-# RestApi
+# A REST API project with mongoDB and NodeJs
